@@ -1,0 +1,420 @@
+{
+  "project_info": {
+    "project_number": "708246900251",
+    "firebase_url": "https://birdwatching-58e29.firebaseio.com",
+    "project_id": "birdwatching-58e29",
+    "storage_bucket": "birdwatching-58e29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:bd006e776daf9ea4c672be",
+        "android_client_info": {
+          "package_name": "com.example.birthdaylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:f22ab18088331724c672be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth2025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:a4c916277bca19fcc672be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth3b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:6a89b858ad7849f2c672be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:27ef5b29ddbb8b99c672be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:65ca297ef69423c7c672be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:637d0de5735f3ee4c672be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthigenigen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:a12a382a02da777ec672be",
+        "android_client_info": {
+          "package_name": "com.example.resale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:94db5d53cf152937",
+        "android_client_info": {
+          "package_name": "dk.easj.anbo.birdwatching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-bdhmsb36h0b3nqne45utjiupslfg2frg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.easj.anbo.birdwatching",
+            "certificate_hash": "0f77a4c1128e672de6c57a6a9e9432c92666e464"
+          }
+        },
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:7c405e8f2899884a",
+        "android_client_info": {
+          "package_name": "dk.easj.anbo.birdwatching2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-e9defsseet7g9o9cfa08dbea0shn9hnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.easj.anbo.birdwatching2",
+            "certificate_hash": "0f77a4c1128e672de6c57a6a9e9432c92666e464"
+          }
+        },
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:17613e27dfa49ffbc672be",
+        "android_client_info": {
+          "package_name": "dk.easj.anbo.realtimedatabaseexample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-7of0ib6cm4bs3fujjtdlhapfilka1h71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.easj.anbo.realtimedatabaseexample2",
+            "certificate_hash": "2fba0bdbf2c9dc0f1d8a7e2b83926979eeb3763d"
+          }
+        },
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:a6494d6d28d7a161c672be",
+        "android_client_info": {
+          "package_name": "dk.easj.anbo.roomreservationv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708246900251:android:a0fdb40bbeaa1214",
+        "android_client_info": {
+          "package_name": "dk.easj.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708246900251-r6g4aqphlcm4l1vflgp1q9ti666pqand.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.easj.myapplication",
+            "certificate_hash": "2fba0bdbf2c9dc0f1d8a7e2b83926979eeb3763d"
+          }
+        },
+        {
+          "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdUAuBNgtB_76xEuFLYsZjiL9v4CFMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708246900251-5phpifm6d7dtbhas71dhiu1f1fll1j6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
