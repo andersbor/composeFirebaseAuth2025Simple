@@ -4,9 +4,11 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material3.Button
@@ -22,7 +24,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.tooling.preview.Preview
-import androidx.core.view.WindowCompat.enableEdgeToEdge
+import androidx.compose.ui.unit.dp
 import com.example.firebaseauth2025.ui.theme.FirebaseAuth2025Theme
 import com.google.firebase.auth.FirebaseAuth
 
@@ -48,8 +50,13 @@ fun AuthScreen(modifier: Modifier = Modifier) {
     var email by remember { mutableStateOf("") }
     var password by remember { mutableStateOf("") }
     var message by remember { mutableStateOf("") }
-    Column(modifier = modifier.fillMaxSize()) {
+    Column(modifier = modifier
+        .fillMaxSize()
+        .padding(16.dp)) {
         OutlinedTextField(
+            modifier = Modifier
+                .padding(8.dp)
+                .fillMaxWidth(),
             value = email,
             onValueChange = { email = it },
             label = { Text("Email") },
@@ -58,6 +65,9 @@ fun AuthScreen(modifier: Modifier = Modifier) {
             )
         )
         OutlinedTextField(
+            modifier = Modifier
+                .padding(8.dp)
+                .fillMaxWidth(),
             value = password,
             onValueChange = { password = it },
             label = { Text("Password") },
@@ -66,7 +76,10 @@ fun AuthScreen(modifier: Modifier = Modifier) {
                 keyboardType = KeyboardType.Password
             )
         )
-        Row {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceEvenly
+        ) {
             Button(onClick = {
                 // TODO validate email and password
                 auth.createUserWithEmailAndPassword(email, password)
